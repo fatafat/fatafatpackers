@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shifters Lite\n"
+"POT-Creation-Date: 2019-07-19 16:02+0530\n"
+"PO-Revision-Date: 2019-07-19 16:02+0530\n"
+"Last-Translator: \n"
+"Language-Team: Grace Themes <support@gracethemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;gettext_noop;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn.....<br />Don't worry... it happens "
+"to the best of us."
+msgstr ""
+
+#: comments.php:30
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:18 content-search.php:28 content-single.php:23
+#: content.php:37 image.php:56 template-full-width.php:23
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:23 content-search.php:39 content-single.php:34
+#: image.php:30 image.php:62
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:15 content.php:19
+msgid ", "
+msgstr ""
+
+#: content.php:30
+msgid "Read more &rarr;"
+msgstr ""
+
+#: content.php:34
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: customize-pro/example-1/class-customize.php:76
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: customize-pro/example-1/class-customize.php:77
+msgid "Upgrade Now"
+msgstr ""
+
+#: footer.php:44
+msgid "Theme by Grace Themes"
+msgstr ""
+
+#: functions.php:41
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:42
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:51
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:52
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:61
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:62 functions.php:72 functions.php:82 functions.php:92
+msgid "Appears on footer"
+msgstr ""
+
+#: functions.php:71
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:81
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:91
+msgid "Footer Widget 4"
+msgstr ""
+
+#: header.php:52
+msgid "We are Open:"
+msgstr ""
+
+#: header.php:103
+msgid "Call Us"
+msgstr ""
+
+#: header.php:115
+msgid "Send us mail"
+msgstr ""
+
+#: header.php:148
+msgid "Menu"
+msgstr ""
+
+#: header.php:264
+msgid "View Details"
+msgstr ""
+
+#: image.php:35
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:36
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/about-themes.php:11 inc/about-themes.php:20
+msgid "About Theme Info"
+msgstr ""
+
+#: inc/about-themes.php:22
+msgid ""
+"Shifters Lite is a attractive, sleek, intuitive, responsive and multi-"
+"purpose logistics WordPress theme suitable for logistics, transportation and "
+"general moving services. If you are in the business which provides services "
+"like delivery and shipping, this theme will be a perfect platform to "
+"consider for a digital presence of your business that will keep your clients "
+"happy and engaged. It has a professional orientation with neat little "
+"features which makes it a brilliant choice for transportation business and "
+"services. This multi-purpose logistics WordPress theme is ideal for any "
+"transportation related industries like trucking, air cargo, air transport, "
+"movers and packers, warehousing, general logistics, and other related "
+"businesses. It can also be used for corporate, construction, architecture "
+"firm, yoga, gym, fitness club, NGO, travel, adventure, personal blog, "
+"digital agency, marketing and any other business website."
+msgstr ""
+
+#: inc/about-themes.php:23
+msgid "Theme Features"
+msgstr ""
+
+#: inc/about-themes.php:27
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/about-themes.php:28
+msgid ""
+"The built-in customizer panel quickly change aspects of the design and "
+"display changes live before saving them."
+msgstr ""
+
+#: inc/about-themes.php:32
+msgid "Responsive Ready"
+msgstr ""
+
+#: inc/about-themes.php:33
+msgid ""
+"The themes layout will automatically adjust and fit on any screen resolution "
+"and looks great on any device. Fully optimized for iPhone and iPad."
+msgstr ""
+
+#: inc/about-themes.php:37
+msgid "Cross Browser Compatible"
+msgstr ""
+
+#: inc/about-themes.php:38
+msgid ""
+"Our themes are tested in all mordern web browsers and compatible with the "
+"latest version including Chrome,Firefox, Safari, Opera, IE11 and above."
+msgstr ""
+
+#: inc/about-themes.php:42
+msgid "E-commerce"
+msgstr ""
+
+#: inc/about-themes.php:43
+msgid ""
+"Fully compatible with WooCommerce plugin. Just install the plugin and turn "
+"your site into a full featured online shop and start selling products."
+msgstr ""
+
+#: inc/about-themes.php:49
+msgid "Live Demo"
+msgstr ""
+
+#: inc/about-themes.php:50
+msgid "Documentation"
+msgstr ""
+
+#: inc/customizer.php:36
+msgid "Theme Options Panel"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Site Layout Options"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "Check to Box Layout"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "If you want to box layout please check the Box Layout Option."
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Color Options"
+msgstr ""
+
+#: inc/customizer.php:65 inc/customizer.php:79
+msgid "More color options in PRO Version"
+msgstr ""
+
+#: inc/customizer.php:78
+msgid "Hover Color Options"
+msgstr ""
+
+#: inc/customizer.php:87
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/customizer.php:99
+msgid "Check to show sticky header on scroll"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Header Contact info"
+msgstr ""
+
+#: inc/customizer.php:118
+msgid "Add office time"
+msgstr ""
+
+#: inc/customizer.php:130
+msgid "Add phone number here"
+msgstr ""
+
+#: inc/customizer.php:142
+msgid "Add email address here."
+msgstr ""
+
+#: inc/customizer.php:156 inc/customizer.php:266
+msgid "Check To show This Section"
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Get an Enquiry Button"
+msgstr ""
+
+#: inc/customizer.php:163
+msgid "Add button text and link to show Get an Enquiry button"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Add Get an Enquiry button text here"
+msgstr ""
+
+#: inc/customizer.php:186
+msgid "Add link for Get an Enquiry button"
+msgstr ""
+
+#: inc/customizer.php:200
+msgid "Check To show Enquiry button"
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "Header social icons"
+msgstr ""
+
+#: inc/customizer.php:208
+msgid "Add social icons link here to display icons in header."
+msgstr ""
+
+#: inc/customizer.php:219
+msgid "Add facebook link here"
+msgstr ""
+
+#: inc/customizer.php:230
+msgid "Add twitter link here"
+msgstr ""
+
+#: inc/customizer.php:241
+msgid "Add google plus link here"
+msgstr ""
+
+#: inc/customizer.php:252
+msgid "Add linkedin link here"
+msgstr ""
+
+#: inc/customizer.php:273
+msgid "Slider Section"
+msgstr ""
+
+#: inc/customizer.php:275
+msgid "Default image size for slider is 1400 x 730 pixel."
+msgstr ""
+
+#: inc/customizer.php:287
+msgid "Select page for slider first:"
+msgstr ""
+
+#: inc/customizer.php:299
+msgid "Select page for slider second:"
+msgstr ""
+
+#: inc/customizer.php:311
+msgid "Select page for slider third:"
+msgstr ""
+
+#: inc/customizer.php:322
+msgid "Add slider Read more button name here"
+msgstr ""
+
+#: inc/customizer.php:336 inc/customizer.php:403 inc/customizer.php:460
+msgid "Check To Show This Section"
+msgstr ""
+
+#: inc/customizer.php:343
+msgid "top 4 Column Sections"
+msgstr ""
+
+#: inc/customizer.php:344
+msgid "Select pages from the dropdown for services section"
+msgstr ""
+
+#: inc/customizer.php:410
+msgid "Welcome Section"
+msgstr ""
+
+#: inc/customizer.php:411
+msgid "Select Pages from the dropdown for welcome section"
+msgstr ""
+
+#: inc/customizer.php:466
+msgid "Sidebar Options"
+msgstr ""
+
+#: inc/customizer.php:480
+msgid "Check to hide sidebar from latest post page"
+msgstr ""
+
+#: inc/customizer.php:494
+msgid "Check to hide sidebar from single post"
+msgstr ""
+
+#: inc/customizer.php:507
+msgid "Check to hide sidebar from all pages"
+msgstr ""
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:17
+msgid "Ready to publish your first post? Get started here."
+msgstr ""
+
+#: no-results.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar.php:11
+msgid "Category"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr ""
